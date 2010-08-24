@@ -1,11 +1,17 @@
 This is a set of icons based on the work of Gerd Arntz: http://www.gerdarntz.org/home
 
-Prepared by Chris Blow and Caleb Bell.
 
-They are freely reusable in noncommercial contexts. For an overview see this flattened image showing the icons on various background with adjustments. 
+Prepared by Chris Blow and Caleb Bell.They are freely reusable in noncommercial contexts. These are now included with Ushahidi: http://ushahidi.com and were originally developed for 2010 deployment in Haiti: http://haiti.ushahidi.com.
+
+Overview with example treatments on various backgrounds: 
+
+http://github.com/unthinkingly/ushahidi-haiti-icons/blob/master/overview.png
+
+Other examples: 
 
 See also: http://developmentseed.org/blog/2010/feb/04/maki-mapping-icons-available-under-bsd-license
 And: http://athleticsnyc.com/print/unitednations-ocha-symbol-set
+
 
 This is part of a larger ongoing project for pictographic humanitarian map design; others may be released at some point. If you have questions or ideas about the direction of the icons please contact cgblow@gmail.com.
 
